@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\interfaceVisualStudio2019\bin\Debug\interfaceVisualStudio2019.exe.config
+C:\Users\User\source\repos\interfaceVisualStudio2019\bin\Debug\interfaceVisualStudio2019.exe
+C:\Users\User\source\repos\interfaceVisualStudio2019\bin\Debug\interfaceVisualStudio2019.pdb
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.csprojAssemblyReference.cache
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.Form1.resources
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.Properties.Resources.resources
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.csproj.GenerateResource.cache
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.exe
+C:\Users\User\source\repos\interfaceVisualStudio2019\obj\Debug\interfaceVisualStudio2019.pdb
