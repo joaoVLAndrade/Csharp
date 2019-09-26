@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\bin\Debug\netcoreapp2.2\caLAB3.deps.json
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\bin\Debug\netcoreapp2.2\caLAB3.runtimeconfig.json
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\bin\Debug\netcoreapp2.2\caLAB3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\bin\Debug\netcoreapp2.2\caLAB3.dll
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\bin\Debug\netcoreapp2.2\caLAB3.pdb
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.AssemblyInfo.cs
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.dll
+C:\Users\User\Desktop\Faculdade\4 Periodo\POO\Laboratórios\caLAB3\obj\Debug\netcoreapp2.2\caLAB3.pdb
